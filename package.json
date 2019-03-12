@@ -13,5 +13,14 @@
     "express": "^4.16.4",
     "parser": "^0.1.4",
     "underscore": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorrobernal/Backend_Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rorrobernal/Backend_Node/issues"
+  },
+  "homepage": "https://github.com/rorrobernal/Backend_Node#readme"
 }
